@@ -1,0 +1,5 @@
+python-decouple
+python-multipart
+requests
+fastapi
+#"uvicorn[standard]" to be installed too
